@@ -1,0 +1,79 @@
+{
+    "user-info": [
+        {
+            "id": "1",
+            "name": "John Brown",
+            "eMail": "2163255124@qq.com",
+            "phone": "0734-04030201",
+            "username": "John",
+            "psword": "admin"
+        },
+        {
+            "id": "2",
+            "name": "Jim Green",
+            "eMail": "2113245124@qq.com",
+            "phone": "0734-05136201",
+            "username": "Green",
+            "psword": "abc123"
+        },
+        {
+            "id": "3",
+            "name": "Joe Black",
+            "eMail": "2163255124@qq.com",
+            "phone": "0734-51230201",
+            "username": "Black",
+            "psword": "257545132"
+        }
+    ],
+    "equipment-info": [
+        {
+            "id": "1",
+            "name": "服务器01",
+            "outIp": "192.30.21.172",
+            "inIp": "204.25.36.123",
+            "port": "20010",
+            "config": "json",
+            "org": "www.baidu.com",
+            "person": "John Brown"
+        },
+        {
+            "id": "2",
+            "name": "服务器02",
+            "outIp": "192.30.21.172",
+            "inIp": "204.25.36.123",
+            "port": "20010",
+            "config": "json",
+            "org": "www.baidu.com",
+            "person": "John Brown"
+        },
+        {
+            "id": "3",
+            "name": "服务器03",
+            "outIp": "192.30.21.172",
+            "inIp": "204.25.36.123",
+            "port": "20010",
+            "config": "json",
+            "org": "www.baidu.com",
+            "person": "John Brown"
+        }
+    ],
+    "serverM-info": [
+        {
+            "id": "adsf54546f5asd46",
+            "name": "服务01",
+            "type": "类型一",
+            "config": "json",
+            "atuoCall": "是",
+            "person": "John Brown",
+            "autoRe": "是",
+            "detectionMethods": {
+                "method01": "aaaaa",
+                "method02": "bbbbb"
+            },
+            "repairMethods": {
+                "method01": "aaaaa",
+                "method02": "bbbbb"
+            }
+        }
+    ]
+}
